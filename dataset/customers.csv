@@ -1,0 +1,501 @@
+﻿customer_id,customer_name,city,signup_date
+1,Ana Gonzalez,San Jose,2023-09-28
+2,Diego Martinez,San Jose,2023-11-27
+3,Valeria Fernandez,Santa Cruz,2023-03-30
+4,Ana Paredes,Santa Cruz,2023-11-14
+5,Carlos Herrera,Rosario,2022-12-11
+6,Fernanda Rodriguez,Buenos Aires,2022-06-06
+7,Juan Perez,Cordoba,2024-11-11
+8,Pedro Martinez,Cusco,2022-08-22
+9,Andres Ortiz,Rosario,2024-12-22
+10,Juan Paredes,Guayaquil,2024-11-10
+11,Pedro Paredes,Panama City,2023-02-02
+12,Fernanda Martinez,Cusco,2023-12-17
+13,Miguel Herrera,Cusco,2023-12-21
+14,Diego Gonzalez,Medellin,2022-10-30
+15,Sofia Castro,Cordoba,2023-04-29
+16,Jose Torres,Panama City,2022-07-30
+17,Luis Diaz,La Paz,2022-10-27
+18,Jose Gomez,Asuncion,2023-06-09
+19,Carlos Vargas,Santa Cruz,2023-02-09
+20,Ana Romero,Medellin,2022-12-22
+21,Lucia Ortiz,Asuncion,2022-11-10
+22,Diego Rodriguez,Arequipa,2022-06-04
+23,Miguel Paredes,Bogota,2022-12-29
+24,Ana Vargas,Panama City,2024-10-08
+25,Carlos Paredes,Rosario,2024-08-08
+26,Camila Ortiz,Medellin,2024-07-08
+27,Lucia Herrera,Medellin,2023-10-24
+28,Pedro Perez,Buenos Aires,2023-10-10
+29,Maria Martinez,Rosario,2022-11-06
+30,Camila Perez,Bogota,2024-06-19
+31,Valeria Gomez,Buenos Aires,2022-05-20
+32,Jorge Torres,Valparaiso,2024-08-18
+33,Miguel Romero,Santa Cruz,2024-06-24
+34,Sofia Romero,Panama City,2023-09-13
+35,Lucia Diaz,Santiago,2023-07-17
+36,Diego Perez,Cordoba,2022-04-26
+37,Gabriela Lopez,Santiago,2023-12-22
+38,Paula Martinez,Valparaiso,2024-11-05
+39,Sofia Rojas,Cordoba,2022-06-01
+40,Jorge Torres,Lima,2023-09-28
+41,Paula Martinez,Buenos Aires,2024-08-03
+42,Jose Rodriguez,Arequipa,2024-07-14
+43,Valeria Rodriguez,Buenos Aires,2022-03-19
+44,Jose Vargas,Mexico City,2022-04-27
+45,Diego Perez,Rosario,2024-01-26
+46,Pedro Herrera,Montevideo,2023-08-11
+47,Jose Diaz,Panama City,2022-06-07
+48,Daniela Vargas,Tegucigalpa,2022-07-04
+49,Miguel Fernandez,Medellin,2024-11-04
+50,Diego Fernandez,Mexico City,2024-02-27
+51,Valeria Paredes,Panama City,2024-08-05
+52,Paula Torres,Cusco,2022-03-26
+53,Ricardo Castro,Medellin,2024-07-10
+54,Ricardo Vargas,Panama City,2023-01-21
+55,Lucia Martinez,Rosario,2023-10-21
+56,Luis Mendoza,Cusco,2024-09-01
+57,Daniela Perez,Bogota,2024-10-23
+58,Maria Gomez,Tegucigalpa,2022-11-05
+59,Luis Lopez,Mexico City,2022-05-07
+60,Fernanda Ortiz,Asuncion,2024-07-11
+61,Carlos Vargas,San Jose,2022-07-31
+62,Jorge Ortiz,Asuncion,2023-12-05
+63,Miguel Mendoza,Mexico City,2022-06-22
+64,Diego Paredes,Arequipa,2024-10-30
+65,Juan Gomez,Santiago,2022-12-20
+66,Paula Torres,Santiago,2022-03-22
+67,Jose Gomez,Cordoba,2023-05-23
+68,Camila Castro,Quito,2024-06-15
+69,Sofia Rojas,San Jose,2024-06-18
+70,Juan Torres,Lima,2024-12-09
+71,Andres Lopez,Bogota,2024-12-06
+72,Andres Gomez,Panama City,2022-11-22
+73,Camila Mendoza,Bogota,2024-01-16
+74,Gabriela Diaz,San Jose,2024-02-03
+75,Luis Romero,Guayaquil,2023-08-03
+76,Sofia Paredes,Guayaquil,2024-03-04
+77,Andres Gonzalez,Arequipa,2024-04-17
+78,Gabriela Sanchez,Buenos Aires,2023-11-24
+79,Daniela Gonzalez,Asuncion,2022-04-18
+80,Ana Romero,Valparaiso,2023-11-17
+81,Camila Martinez,Arequipa,2022-05-15
+82,Maria Martinez,Santa Cruz,2023-11-07
+83,Ricardo Perez,Quito,2022-07-13
+84,Carlos Silva,Quito,2024-03-02
+85,Carlos Paredes,Quito,2023-08-05
+86,Luis Fernandez,Mexico City,2023-06-01
+87,Daniela Paredes,Tegucigalpa,2022-11-04
+88,Sofia Torres,Medellin,2023-11-14
+89,Andres Ortiz,Tegucigalpa,2022-06-16
+90,Fernanda Diaz,Asuncion,2022-10-17
+91,Paula Diaz,Rosario,2023-12-18
+92,Camila Vargas,Santa Cruz,2023-09-28
+93,Lucia Rojas,Buenos Aires,2024-03-13
+94,Andres Rojas,Asuncion,2022-09-22
+95,Ana Martinez,Cordoba,2022-06-23
+96,Valeria Perez,Montevideo,2023-09-27
+97,Jose Gonzalez,Cordoba,2024-02-11
+98,Ricardo Paredes,Montevideo,2023-11-04
+99,Valeria Herrera,Lima,2022-09-19
+100,Valeria Gonzalez,Cordoba,2024-12-14
+101,Carlos Rodriguez,San Jose,2022-07-11
+102,Valeria Perez,Cusco,2024-05-17
+103,Maria Sanchez,Quito,2024-11-07
+104,Carlos Mendoza,Mexico City,2024-01-12
+105,Valeria Torres,Cordoba,2022-02-07
+106,Daniela Diaz,Guayaquil,2024-01-13
+107,Paula Fernandez,Santa Cruz,2023-09-25
+108,Ricardo Herrera,San Jose,2023-01-05
+109,Daniela Martinez,Arequipa,2023-03-15
+110,Daniela Castro,Montevideo,2023-12-01
+111,Pedro Gomez,Cordoba,2024-09-22
+112,Ana Castro,San Jose,2023-01-29
+113,Lucia Castro,La Paz,2023-04-09
+114,Fernanda Rojas,Medellin,2022-10-09
+115,Maria Gomez,Rosario,2022-11-14
+116,Maria Vargas,Santiago,2022-06-08
+117,Jose Gomez,Asuncion,2023-08-29
+118,Valeria Diaz,Medellin,2022-07-27
+119,Pedro Paredes,Santa Cruz,2024-11-05
+120,Miguel Fernandez,Guayaquil,2024-12-14
+121,Fernanda Lopez,Santa Cruz,2022-03-19
+122,Diego Rojas,San Jose,2023-11-21
+123,Valeria Perez,San Jose,2022-09-26
+124,Miguel Paredes,Lima,2024-02-11
+125,Ana Rodriguez,Medellin,2022-11-12
+126,Paula Gonzalez,Montevideo,2022-11-29
+127,Carlos Martinez,Lima,2023-01-06
+128,Sofia Castro,Santa Cruz,2022-12-06
+129,Daniela Silva,Bogota,2024-06-15
+130,Pedro Vargas,Tegucigalpa,2022-03-31
+131,Maria Lopez,Rosario,2024-04-21
+132,Jorge Gonzalez,San Jose,2024-01-17
+133,Jorge Torres,Asuncion,2023-05-02
+134,Miguel Ramirez,Tegucigalpa,2024-06-28
+135,Fernanda Paredes,Guayaquil,2023-08-07
+136,Daniela Fernandez,Asuncion,2024-07-08
+137,Pedro Ramirez,La Paz,2023-04-25
+138,Pedro Rodriguez,Tegucigalpa,2024-12-29
+139,Ricardo Paredes,Montevideo,2023-05-05
+140,Maria Sanchez,Buenos Aires,2023-09-26
+141,Maria Rodriguez,Santiago,2024-08-18
+142,Ricardo Silva,Bogota,2023-02-02
+143,Andres Mendoza,San Jose,2024-01-24
+144,Sofia Rodriguez,Cordoba,2024-06-21
+145,Andres Perez,Bogota,2024-08-03
+146,Sofia Perez,Santa Cruz,2023-08-01
+147,Gabriela Perez,Guayaquil,2024-02-22
+148,Valeria Vargas,Buenos Aires,2024-10-26
+149,Ana Herrera,Mexico City,2024-12-16
+150,Valeria Herrera,San Jose,2024-05-07
+151,Gabriela Rodriguez,Panama City,2022-11-28
+152,Gabriela Perez,Arequipa,2023-02-13
+153,Fernanda Herrera,Quito,2022-10-11
+154,Ricardo Mendoza,La Paz,2023-05-28
+155,Jose Torres,Buenos Aires,2022-04-17
+156,Pedro Sanchez,Cusco,2024-09-11
+157,Valeria Torres,Guayaquil,2024-01-31
+158,Jorge Fernandez,Valparaiso,2022-07-30
+159,Camila Rojas,Valparaiso,2024-11-22
+160,Jose Perez,Montevideo,2022-09-13
+161,Juan Rojas,Quito,2023-08-07
+162,Gabriela Herrera,Montevideo,2022-06-21
+163,Ana Perez,Rosario,2022-11-25
+164,Paula Diaz,San Jose,2023-07-13
+165,Andres Torres,Panama City,2024-07-09
+166,Luis Romero,Santiago,2024-11-17
+167,Carlos Martinez,Cordoba,2022-10-29
+168,Lucia Ramirez,Mexico City,2024-06-14
+169,Sofia Rojas,Buenos Aires,2022-07-07
+170,Paula Ramirez,Asuncion,2023-03-31
+171,Gabriela Mendoza,Medellin,2024-07-12
+172,Juan Paredes,Cusco,2023-12-17
+173,Camila Gomez,Guayaquil,2022-02-24
+174,Luis Torres,Mexico City,2024-04-29
+175,Ana Gomez,Medellin,2022-04-20
+176,Paula Fernandez,Lima,2024-03-22
+177,Diego Ramirez,Montevideo,2024-10-25
+178,Gabriela Diaz,Cusco,2024-02-05
+179,Jose Diaz,Santiago,2023-04-28
+180,Diego Mendoza,Cordoba,2024-03-01
+181,Daniela Torres,Guayaquil,2022-06-17
+182,Maria Perez,Montevideo,2024-02-07
+183,Fernanda Torres,Santa Cruz,2023-04-05
+184,Maria Gonzalez,Medellin,2022-02-27
+185,Jose Fernandez,Guayaquil,2023-10-15
+186,Diego Lopez,Santiago,2022-07-22
+187,Miguel Paredes,Asuncion,2023-11-18
+188,Fernanda Paredes,Rosario,2022-10-27
+189,Juan Gomez,Lima,2022-10-09
+190,Carlos Fernandez,Tegucigalpa,2022-03-20
+191,Paula Rodriguez,Cusco,2023-08-11
+192,Lucia Herrera,Panama City,2024-08-25
+193,Paula Fernandez,Tegucigalpa,2022-10-12
+194,Fernanda Fernandez,Asuncion,2024-08-18
+195,Maria Ramirez,Mexico City,2024-07-07
+196,Lucia Rodriguez,Cordoba,2022-01-11
+197,Lucia Diaz,San Jose,2022-06-12
+198,Valeria Gomez,Arequipa,2022-02-08
+199,Lucia Paredes,Santiago,2023-06-09
+200,Fernanda Ortiz,Buenos Aires,2023-03-18
+201,Luis Martinez,Bogota,2022-11-03
+202,Sofia Lopez,Bogota,2024-12-16
+203,Fernanda Gonzalez,San Jose,2024-05-16
+204,Sofia Sanchez,Rosario,2022-08-16
+205,Fernanda Martinez,Santiago,2023-08-14
+206,Diego Lopez,Santiago,2023-05-02
+207,Ana Vargas,Asuncion,2023-09-09
+208,Maria Silva,Cusco,2022-09-07
+209,Valeria Diaz,Buenos Aires,2022-04-08
+210,Miguel Romero,Medellin,2023-05-04
+211,Camila Martinez,Cordoba,2024-05-09
+212,Valeria Gonzalez,Guayaquil,2024-07-25
+213,Pedro Vargas,Cusco,2022-05-09
+214,Jose Torres,Arequipa,2022-08-16
+215,Carlos Torres,Santa Cruz,2024-10-20
+216,Lucia Mendoza,Buenos Aires,2022-02-03
+217,Jorge Paredes,Arequipa,2024-11-21
+218,Jose Gonzalez,Santiago,2023-05-11
+219,Ana Torres,Rosario,2022-10-22
+220,Sofia Herrera,Tegucigalpa,2023-08-20
+221,Diego Rodriguez,Arequipa,2024-05-29
+222,Ana Ortiz,Montevideo,2022-01-04
+223,Fernanda Romero,Bogota,2023-12-24
+224,Jose Castro,Guayaquil,2023-05-08
+225,Gabriela Mendoza,La Paz,2024-05-03
+226,Ana Vargas,Cordoba,2023-01-19
+227,Ricardo Diaz,Cordoba,2022-06-25
+228,Diego Rodriguez,Asuncion,2024-12-08
+229,Fernanda Gonzalez,Guayaquil,2024-01-09
+230,Andres Paredes,Santiago,2022-05-19
+231,Pedro Romero,Guayaquil,2024-12-13
+232,Fernanda Perez,Cusco,2024-11-05
+233,Jose Ortiz,Guayaquil,2024-11-05
+234,Jose Gomez,Bogota,2022-02-11
+235,Camila Mendoza,Medellin,2024-03-10
+236,Camila Castro,Montevideo,2024-08-20
+237,Jose Vargas,La Paz,2022-03-31
+238,Camila Paredes,Santiago,2024-03-03
+239,Luis Diaz,Cordoba,2024-02-04
+240,Fernanda Vargas,Mexico City,2023-06-04
+241,Sofia Ortiz,La Paz,2022-02-03
+242,Ricardo Ramirez,Tegucigalpa,2024-01-02
+243,Jorge Paredes,Lima,2022-05-19
+244,Juan Ramirez,Bogota,2023-12-08
+245,Camila Diaz,Panama City,2023-05-09
+246,Fernanda Herrera,Asuncion,2022-08-01
+247,Gabriela Sanchez,Buenos Aires,2023-11-12
+248,Miguel Rojas,Santa Cruz,2022-10-01
+249,Miguel Diaz,La Paz,2022-04-01
+250,Andres Silva,Mexico City,2023-12-23
+251,Sofia Perez,Cusco,2023-11-25
+252,Camila Mendoza,La Paz,2022-12-25
+253,Gabriela Sanchez,Santa Cruz,2024-08-09
+254,Carlos Martinez,La Paz,2024-09-07
+255,Camila Martinez,Asuncion,2023-01-09
+256,Pedro Fernandez,Panama City,2022-10-04
+257,Juan Rodriguez,Buenos Aires,2022-05-10
+258,Valeria Silva,Tegucigalpa,2024-07-26
+259,Gabriela Perez,Lima,2022-03-17
+260,Miguel Castro,Montevideo,2023-08-24
+261,Ricardo Diaz,Buenos Aires,2023-02-17
+262,Jorge Silva,Buenos Aires,2022-03-31
+263,Jorge Martinez,Cusco,2023-02-13
+264,Luis Gonzalez,Montevideo,2022-03-27
+265,Ana Castro,Quito,2023-10-09
+266,Valeria Lopez,Santiago,2023-09-28
+267,Andres Rojas,Lima,2024-11-21
+268,Maria Paredes,Buenos Aires,2024-03-26
+269,Valeria Gomez,Lima,2024-08-27
+270,Miguel Fernandez,Guayaquil,2023-06-03
+271,Miguel Mendoza,Asuncion,2022-03-16
+272,Paula Ortiz,Santa Cruz,2023-01-27
+273,Jose Rojas,Panama City,2023-08-09
+274,Gabriela Mendoza,Lima,2024-01-02
+275,Fernanda Paredes,Quito,2022-04-08
+276,Miguel Lopez,Montevideo,2023-11-11
+277,Daniela Rojas,Bogota,2023-07-14
+278,Diego Martinez,Buenos Aires,2022-09-12
+279,Diego Mendoza,Arequipa,2024-01-24
+280,Daniela Martinez,Valparaiso,2024-06-13
+281,Diego Rojas,Santiago,2024-03-30
+282,Carlos Ramirez,Mexico City,2024-06-19
+283,Valeria Torres,Rosario,2024-03-02
+284,Jose Sanchez,Cordoba,2023-11-26
+285,Paula Perez,Guayaquil,2023-01-18
+286,Luis Fernandez,Valparaiso,2024-10-13
+287,Valeria Vargas,Santa Cruz,2024-10-15
+288,Luis Diaz,Santiago,2024-01-23
+289,Carlos Castro,Cordoba,2024-11-29
+290,Fernanda Sanchez,Valparaiso,2023-07-01
+291,Paula Rojas,Asuncion,2022-06-19
+292,Fernanda Rodriguez,Tegucigalpa,2024-05-19
+293,Pedro Castro,Bogota,2022-06-11
+294,Jorge Herrera,Valparaiso,2024-05-31
+295,Juan Herrera,San Jose,2023-01-05
+296,Jorge Silva,Cordoba,2023-08-25
+297,Juan Romero,Lima,2023-10-20
+298,Camila Vargas,Bogota,2022-07-30
+299,Fernanda Paredes,Rosario,2022-06-13
+300,Paula Ortiz,Medellin,2023-11-03
+301,Valeria Silva,Arequipa,2023-08-29
+302,Valeria Torres,Santiago,2023-09-20
+303,Fernanda Silva,Rosario,2024-07-02
+304,Juan Vargas,Cordoba,2024-05-22
+305,Jose Vargas,Mexico City,2022-12-08
+306,Sofia Rojas,Mexico City,2024-06-28
+307,Luis Ortiz,Panama City,2023-12-21
+308,Paula Gonzalez,Tegucigalpa,2024-07-04
+309,Jorge Herrera,Buenos Aires,2022-03-28
+310,Ricardo Gonzalez,Mexico City,2023-12-24
+311,Carlos Castro,Buenos Aires,2024-06-09
+312,Luis Rojas,Montevideo,2023-07-17
+313,Sofia Rodriguez,Tegucigalpa,2022-04-28
+314,Diego Vargas,Santa Cruz,2022-06-03
+315,Jose Diaz,Cusco,2024-04-11
+316,Miguel Sanchez,Panama City,2024-01-15
+317,Jose Vargas,Medellin,2024-11-16
+318,Diego Castro,Tegucigalpa,2022-11-24
+319,Diego Perez,Valparaiso,2022-03-05
+320,Daniela Gonzalez,San Jose,2022-10-20
+321,Paula Rodriguez,Cordoba,2024-06-16
+322,Lucia Martinez,Valparaiso,2022-03-13
+323,Carlos Rodriguez,Tegucigalpa,2022-09-16
+324,Juan Martinez,Arequipa,2022-05-18
+325,Pedro Gonzalez,Santiago,2023-04-29
+326,Gabriela Fernandez,Santiago,2024-01-21
+327,Valeria Fernandez,Cusco,2024-01-12
+328,Daniela Gomez,La Paz,2024-02-24
+329,Ricardo Diaz,Arequipa,2022-03-08
+330,Miguel Torres,Cordoba,2022-11-11
+331,Lucia Lopez,Asuncion,2024-07-10
+332,Gabriela Ortiz,Arequipa,2024-01-30
+333,Ana Lopez,Panama City,2024-02-01
+334,Camila Gomez,Cordoba,2024-06-28
+335,Ricardo Gonzalez,Medellin,2022-06-07
+336,Camila Herrera,Arequipa,2022-10-09
+337,Jorge Vargas,Santiago,2024-12-20
+338,Pedro Perez,Panama City,2024-01-22
+339,Ricardo Martinez,Arequipa,2024-03-26
+340,Ana Ramirez,Panama City,2023-10-06
+341,Gabriela Gomez,Montevideo,2023-07-25
+342,Ricardo Rodriguez,Guayaquil,2023-05-27
+343,Lucia Paredes,Buenos Aires,2022-08-21
+344,Fernanda Romero,Rosario,2022-02-23
+345,Carlos Mendoza,Mexico City,2023-01-17
+346,Jose Gonzalez,Mexico City,2024-10-19
+347,Fernanda Silva,Mexico City,2024-11-26
+348,Ana Castro,Mexico City,2024-03-03
+349,Lucia Rojas,Arequipa,2022-08-30
+350,Luis Castro,Santiago,2023-06-21
+351,Sofia Mendoza,Guayaquil,2023-06-18
+352,Diego Ortiz,Buenos Aires,2024-07-02
+353,Paula Silva,Cusco,2023-03-16
+354,Miguel Castro,Bogota,2023-08-08
+355,Ricardo Torres,Santa Cruz,2024-10-02
+356,Jose Martinez,Cusco,2023-02-14
+357,Carlos Torres,Cusco,2022-09-09
+358,Miguel Martinez,Panama City,2022-10-05
+359,Miguel Herrera,Santiago,2022-06-01
+360,Gabriela Vargas,Arequipa,2024-07-14
+361,Jose Gonzalez,Guayaquil,2022-12-20
+362,Daniela Sanchez,Arequipa,2024-06-30
+363,Sofia Silva,Bogota,2022-06-29
+364,Pedro Romero,San Jose,2023-10-17
+365,Diego Sanchez,Tegucigalpa,2023-12-13
+366,Diego Ortiz,San Jose,2022-05-13
+367,Diego Paredes,Guayaquil,2023-08-18
+368,Juan Mendoza,Santiago,2023-09-07
+369,Pedro Perez,Santa Cruz,2022-11-19
+370,Valeria Castro,Valparaiso,2022-12-23
+371,Daniela Paredes,La Paz,2024-01-11
+372,Valeria Silva,Buenos Aires,2024-11-07
+373,Daniela Rojas,Rosario,2023-04-05
+374,Juan Perez,Asuncion,2022-09-06
+375,Camila Martinez,Santiago,2023-02-16
+376,Jorge Martinez,Guayaquil,2022-10-12
+377,Camila Herrera,Cusco,2023-04-30
+378,Lucia Silva,Guayaquil,2024-10-08
+379,Paula Mendoza,Santiago,2022-02-23
+380,Lucia Castro,Montevideo,2024-01-10
+381,Paula Sanchez,Santa Cruz,2024-01-26
+382,Lucia Rojas,Asuncion,2024-08-15
+383,Diego Ramirez,Arequipa,2022-09-23
+384,Diego Martinez,Cusco,2022-06-26
+385,Ana Diaz,Tegucigalpa,2022-05-15
+386,Jose Gomez,Tegucigalpa,2023-09-26
+387,Paula Lopez,Cusco,2024-03-26
+388,Pedro Diaz,Lima,2024-09-07
+389,Daniela Torres,Tegucigalpa,2024-12-12
+390,Ricardo Mendoza,Montevideo,2024-04-21
+391,Gabriela Ramirez,Lima,2024-04-18
+392,Ana Diaz,Quito,2022-06-01
+393,Camila Martinez,Montevideo,2022-09-14
+394,Lucia Lopez,San Jose,2023-10-12
+395,Camila Gonzalez,Panama City,2022-06-01
+396,Paula Fernandez,Guayaquil,2024-07-10
+397,Diego Rodriguez,Lima,2024-08-12
+398,Maria Paredes,Quito,2024-11-25
+399,Camila Fernandez,Buenos Aires,2023-12-07
+400,Daniela Gomez,Santa Cruz,2022-09-20
+401,Juan Herrera,Medellin,2023-01-08
+402,Camila Silva,Mexico City,2022-09-22
+403,Daniela Rojas,Buenos Aires,2024-06-05
+404,Jose Lopez,Lima,2024-10-26
+405,Maria Torres,Mexico City,2022-04-24
+406,Daniela Gomez,Valparaiso,2022-09-12
+407,Carlos Vargas,La Paz,2024-11-27
+408,Daniela Perez,Medellin,2022-11-10
+409,Ricardo Rodriguez,Arequipa,2023-09-15
+410,Luis Fernandez,Cordoba,2022-12-04
+411,Ricardo Ramirez,Panama City,2022-11-28
+412,Carlos Martinez,Quito,2023-10-23
+413,Ana Paredes,Guayaquil,2023-04-07
+414,Fernanda Ortiz,San Jose,2023-12-10
+415,Gabriela Ortiz,Panama City,2024-11-28
+416,Valeria Mendoza,Santa Cruz,2023-08-05
+417,Jorge Rojas,Tegucigalpa,2022-06-11
+418,Miguel Ramirez,Mexico City,2023-05-29
+419,Ricardo Castro,Bogota,2023-02-07
+420,Camila Herrera,Buenos Aires,2023-07-17
+421,Gabriela Rodriguez,Quito,2022-09-14
+422,Gabriela Gomez,Tegucigalpa,2023-09-13
+423,Pedro Diaz,Bogota,2024-12-28
+424,Diego Perez,Mexico City,2022-07-11
+425,Sofia Martinez,Montevideo,2024-10-26
+426,Sofia Paredes,Cordoba,2022-12-12
+427,Carlos Lopez,Arequipa,2022-11-12
+428,Juan Castro,Rosario,2022-12-17
+429,Miguel Ortiz,Tegucigalpa,2023-11-23
+430,Daniela Ramirez,Cordoba,2022-03-26
+431,Maria Martinez,Arequipa,2022-02-28
+432,Camila Ramirez,Montevideo,2022-06-16
+433,Miguel Perez,La Paz,2022-04-04
+434,Valeria Torres,Valparaiso,2023-06-27
+435,Ricardo Diaz,Santiago,2023-03-08
+436,Fernanda Gomez,Guayaquil,2024-05-03
+437,Paula Martinez,Arequipa,2022-03-04
+438,Luis Torres,Santiago,2024-10-16
+439,Luis Perez,San Jose,2023-08-17
+440,Maria Lopez,Santa Cruz,2023-09-11
+441,Camila Ortiz,Rosario,2024-09-16
+442,Ricardo Ramirez,Valparaiso,2023-05-17
+443,Miguel Gomez,San Jose,2024-04-11
+444,Miguel Ramirez,Bogota,2023-09-02
+445,Jorge Torres,Asuncion,2024-07-17
+446,Andres Paredes,Medellin,2022-05-30
+447,Daniela Rojas,Tegucigalpa,2022-05-03
+448,Carlos Ortiz,Bogota,2022-11-20
+449,Maria Castro,Lima,2024-06-19
+450,Jose Ortiz,La Paz,2024-05-01
+451,Diego Gonzalez,San Jose,2024-09-18
+452,Carlos Martinez,La Paz,2024-08-09
+453,Ricardo Herrera,Buenos Aires,2023-02-22
+454,Juan Torres,Montevideo,2023-11-28
+455,Ricardo Rodriguez,San Jose,2022-10-22
+456,Sofia Silva,Panama City,2023-10-03
+457,Andres Rojas,Santiago,2023-10-16
+458,Diego Lopez,Lima,2023-12-09
+459,Ricardo Castro,Rosario,2024-03-27
+460,Daniela Perez,Arequipa,2022-09-25
+461,Daniela Romero,Quito,2024-01-29
+462,Fernanda Sanchez,Buenos Aires,2024-11-20
+463,Jose Gomez,Medellin,2022-08-06
+464,Sofia Sanchez,Cusco,2023-10-16
+465,Fernanda Silva,Asuncion,2023-05-11
+466,Camila Vargas,Valparaiso,2024-08-13
+467,Paula Rodriguez,Cusco,2022-09-08
+468,Miguel Perez,Guayaquil,2023-07-02
+469,Jose Torres,Mexico City,2024-07-09
+470,Jose Gomez,Medellin,2023-05-23
+471,Jorge Mendoza,Bogota,2022-10-16
+472,Juan Paredes,Arequipa,2022-07-18
+473,Miguel Castro,Lima,2022-04-14
+474,Maria Diaz,Cordoba,2023-08-18
+475,Andres Romero,Mexico City,2024-02-26
+476,Gabriela Silva,Panama City,2024-05-06
+477,Miguel Rodriguez,Santa Cruz,2023-05-24
+478,Pedro Torres,Arequipa,2022-11-24
+479,Paula Fernandez,Santa Cruz,2023-11-02
+480,Camila Rojas,Medellin,2023-10-03
+481,Daniela Gomez,Arequipa,2023-01-24
+482,Juan Ortiz,San Jose,2022-11-23
+483,Valeria Lopez,Santiago,2024-10-17
+484,Camila Paredes,Medellin,2024-11-20
+485,Juan Paredes,Lima,2024-08-14
+486,Fernanda Perez,Panama City,2024-10-18
+487,Valeria Gomez,Quito,2023-09-24
+488,Miguel Gomez,Tegucigalpa,2024-10-15
+489,Luis Silva,Cordoba,2022-02-17
+490,Camila Mendoza,Guayaquil,2022-07-04
+491,Diego Castro,Mexico City,2024-03-16
+492,Daniela Silva,Arequipa,2024-11-01
+493,Valeria Rojas,Santiago,2024-07-25
+494,Paula Fernandez,Asuncion,2023-05-09
+495,Jorge Diaz,Arequipa,2023-03-17
+496,Gabriela Mendoza,Santa Cruz,2023-12-24
+497,Luis Perez,Medellin,2022-04-10
+498,Diego Castro,Valparaiso,2022-04-14
+499,Jose Mendoza,Mexico City,2023-07-31
+500,Diego Gonzalez,Medellin,2024-10-10
